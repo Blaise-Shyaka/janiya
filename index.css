@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(243, 240, 240);
+}
+
+nav {
+    position: sticky!important;
+    top: 0!important;
+    z-index: 1;
+}
+
+.logo-logo {
+    color: gainsboro;
+}
+
+.about {
+    background-image: linear-gradient(to top, rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)), url("./images/fashion-3221102_1920\ \(1\).jpg");
+    background-repeat: no-repeat;
+    height: 30rem;
+    background-size: cover;
+}
+
+.paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+}
